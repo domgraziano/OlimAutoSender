@@ -10,8 +10,9 @@ If you add more return tracks you can use a button to automatically update the l
 Download or git clone the device in MAX MIDI EFFECTS FOLDER under your Ableton Live User Libray > Preset > MIDI EFFECTS.
 
 # Improvements 
-In my opinion this max device could be improved in 2 ways:
+In my opinion this max device could be improved in 2 ways (feel free to contribute to this or submit any other cool ideas):
 - At the moment if you add a return track you need to hit a button to update the list, would be nice if the list is automatically updated without the user interaction.
 - At the moment you can send the signal to just one return track. The device should be able to have multiple assignment and individual amount and treshold, so you could be able to send to different return tracks or to all at once based on your gestures and pressure on the keyboard :)
+
 
 Enjoy!
